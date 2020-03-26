@@ -3,12 +3,8 @@ import re
 import sys
 import os
 
-
-# aa=
-
 # os.system("ls")
 os.system("git remote -v| grep 'http'> ttt.txt")
-
 
 for i in open("ttt.txt"):
     i=i.split()
