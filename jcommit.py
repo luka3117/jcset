@@ -3,6 +3,11 @@ import re
 import sys
 import os
 
+#  自動で commit, push を行う
+# 実装方法 : run  「python jccommit.py」
+
+
+
 # os.system("ls")
 
 input_message=input("aaaa=??")
