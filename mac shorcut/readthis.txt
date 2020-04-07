@@ -1,0 +1,21 @@
+step 1: Make 「xx.command」 file
+
+step2: change the mode
+
+「chmod u+x ファイル名.commnad」
+
+===================================
+Example 
+=========================
+
+#!/bin/bash
+cd "/Users/jclee/Dropbox/00000講義/大阪/2020-1(CDA)"
+open .
+
+
+
+#!/bin/bash
+open -a safari "http://r-pkgs.had.co.nz"
+
+
+
